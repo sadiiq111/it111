@@ -13,7 +13,7 @@ public class GallonsLiters {
               System.out.printf("%.2f Liters = %.2f Gallons%n", liters, (double) gallons);
 
 //            System.out.printf("%.2f degrees Celsius is equal to %.2f degrees Fahrenheit%n", cel, far);
-//            it doesn't work for me to second system.out.println'
+//
 
             counter++;
 
